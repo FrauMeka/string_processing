@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # StringProcessor Java Project
 
@@ -65,3 +66,8 @@ The **StringProcessor** class is a Java implementation that provides utility met
 | Multiplication and addition            | `"100 * 2 + 12"`                 | `212.0`          |
 | Expression with brackets               | `"19 * ( 8 + 19 )"`              | `513.0`          |
 | Single multiplication                  | `"100 * 9"`                       | `900.0`          |
+=======
+# string_processing
+# string_processing
+# string_processing
+>>>>>>> 290fdce (new)
